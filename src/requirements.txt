@@ -1,0 +1,4 @@
+yt_dlp~=2021.11.10.1
+requests~=2.26.0
+pyinstaller==4.7.0
+PySimpleGUI==4.55.1
